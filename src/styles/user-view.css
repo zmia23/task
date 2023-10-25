@@ -1,0 +1,9 @@
+.modal-footer-buttons { 
+  display: flex; 
+  justify-content: space-between;
+}
+
+.container-buttons { 
+  float: right;
+  padding-top: 10px;
+}
